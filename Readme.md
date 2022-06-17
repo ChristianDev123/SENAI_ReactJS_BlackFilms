@@ -4,7 +4,7 @@ Simples Dashboard de Filmes, desenvolvido para treino de consumo de API.
 
 ## Imagens da Aplicação:
 
-![]()
+![Imagem da Aplicação](https://github.com/ChristianDev123/SENAI_ReactJS_BlackFilms/blob/main/blackFilms.png)
 
 ## Como instalar localmente:
 
